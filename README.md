@@ -27,11 +27,12 @@
 
 ## TiDB
 
->  - [了解TiDB基础入门](https://www.jianshu.com/p/f076eab48a3a)
->  - [三篇文章了解TiDB技术内幕-说存储](https://www.jianshu.com/p/f21b111a3c39) 
->  - [三篇文章了解 TiDB 技术内幕-说计算](https://www.jianshu.com/p/fc7f476c8d37) 
->  - [三篇文章了解 TiDB 技术内幕 - 谈调度](https://www.jianshu.com/p/a4e01a1b6489) 
 >  - [为什么我们要从MySQL迁移到TiDB？](https://www.easemob.com/news/4079) v2020/03/12
+>  - [【官方】TiDB overview概述](https://github.com/pingcap/docs-cn/blob/master/overview.md) 
+>  - [【官方】TiDB 整体架构](https://github.com/pingcap/docs-cn/blob/master/tidb-architecture.md) 
+>  - [【官方】TiDB 数据库存储](https://github.com/pingcap/docs-cn/blob/master/tidb-storage.md) 
+>  - [【官方】TiDB 数据库计算](https://github.com/pingcap/docs-cn/blob/master/tidb-computing.md) 
+>  - [【官方】TiDB 数据库调度](https://github.com/pingcap/docs-cn/blob/master/tidb-scheduling.md) 
 >  - [新一代数据库TiDB在美团的实践](https://tech.meituan.com/2018/11/22/mysql-pingcap-practice.html) v2018/11/22
 
 ## 其他
