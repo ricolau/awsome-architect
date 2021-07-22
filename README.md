@@ -3,6 +3,7 @@
 > 立足于后端工程师、架构师的编程知识合集（持续更新）
 
 - [Go语言开发](#Go语言开发)
+- [JAVA语言开发](#JAVA语言开发)
 - [MQ消息队列](#MQ消息队列)
 - [RDB数据库存储](#RDB数据库存储)
 - [NewSQL](#NewSQL)
@@ -18,6 +19,11 @@
 > - [go sync.Map使用和介绍](https://blog.csdn.net/u010230794/article/details/82143179)
 > - [深度解密Go语言之sync.map](https://zhuanlan.zhihu.com/p/344834329)
 > - [由浅入深聊聊Golang的sync.Map](https://blog.csdn.net/u011957758/article/details/96633984)
+
+## JAVA语言开发
+
+> - [想学Google Guava看这篇就够了](https://blog.csdn.net/pzjtian/article/details/106910046)
+
 
 ## MQ消息队列
 
