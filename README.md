@@ -32,6 +32,7 @@
 > - [go sync.Map使用和介绍](https://blog.csdn.net/u010230794/article/details/82143179)
 > - [深度解密Go语言之sync.map](https://zhuanlan.zhihu.com/p/344834329)
 > - [由浅入深聊聊Golang的sync.Map](https://blog.csdn.net/u011957758/article/details/96633984)
+> - [Golang性能测试工具PProf应用详解](https://zhuanlan.zhihu.com/p/51559344)
 
 ## JAVA语言开发
 
