@@ -12,6 +12,7 @@
 - [Cache高速缓存](#Cache高速缓存)
 - [系统设计](#系统设计)
 - [HA高可用架构](#HA高可用架构) 
+- [其他常识](#其他常识)
 
 
 ## 数据结构
@@ -67,4 +68,10 @@
 ## HA高可用架构
 >  - [“两地三中心”和“双活”简介--容灾技术方案](http://blog.itpub.net/26736162/viewspace-2216584/) 
 
+
+## 其他常识
+
+
+## 其他常识
+>  - [秒懂开源许可证GPL、BSD、MIT、Mozilla、Apache和LGPL的区别](https://blog.csdn.net/weixin_33278772/article/details/89203009) 
 
