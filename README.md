@@ -10,6 +10,7 @@
 - [RDB数据库存储](#RDB数据库存储)
 - [NewSQL](#NewSQL)
 - [Cache高速缓存](#Cache高速缓存)
+- [云原生](#云原生)
 - [系统设计](#系统设计)
 - [HA高可用架构](#HA高可用架构) 
 - [其他常识](#其他常识)
@@ -61,6 +62,11 @@
 - [我们为什么放弃了TiDB，选择自研NewSQL](http://dbaplus.cn/news-11-2950-1.html) v2020/01/16
 
 ## Cache高速缓存
+
+## 云原生
+>  - [Kubernetes 中文手册](http://docs.kubernetes.org.cn/227.html) 
+
+
 
 ## 系统设计
 
