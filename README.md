@@ -2,6 +2,9 @@
 
 > 立足于后端工程师、架构师的编程知识合集（持续更新）
 
+> 前端学习内容请转：[前端学习 front-end-learning](https://github.com/ricolau/awsome-architect/blob/main/front-end-learning.md) 
+
+
 - [数据结构](#数据结构)
 - [软件工程](#软件工程)
 - [Go语言开发](#Go语言开发)
@@ -83,4 +86,7 @@
 
 ## 其他常识
 >  - [秒懂开源许可证GPL、BSD、MIT、Mozilla、Apache和LGPL的区别](https://blog.csdn.net/weixin_33278772/article/details/89203009) 
+
+
+
 
