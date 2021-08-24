@@ -65,7 +65,7 @@
 ## Cache高速缓存
 
 ## 云原生
->  - [Kubernetes 中文手册](http://docs.kubernetes.org.cn/227.html) 
+>  - [【Mannual】Kubernetes 中文手册](http://docs.kubernetes.org.cn/227.html) 
 
 ## APM监控报警
 >  - [Grafana监控系统之Prometheus+Grafana监控系统搭建](https://blog.csdn.net/qq_37128049/article/details/108143110) 
