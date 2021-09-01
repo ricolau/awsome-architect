@@ -12,6 +12,7 @@
 - [MQ消息队列](#MQ消息队列)
 - [RDB数据库存储](#RDB数据库存储)
 - [NewSQL](#NewSQL)
+- [图数据库](#图数据库)
 - [Cache高速缓存](#Cache高速缓存)
 - [APM监控报警](#APM监控报警)
 - [云原生](#云原生)
@@ -52,6 +53,9 @@
 
 ## NewSQL
 
+## 图数据库
+>  - [字节跳动自研万亿级图数据库 & 图计算实践](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247485504&idx=1&sn=1768d4561b3d787bf6175d124e1a200d) 
+
 ## TiDB
 
 >  - [为什么我们要从MySQL迁移到TiDB？](https://www.easemob.com/news/4079) v2020/03/12
@@ -79,6 +83,11 @@
 
 ## HA高可用架构
 >  - [“两地三中心”和“双活”简介--容灾技术方案](http://blog.itpub.net/26736162/viewspace-2216584/) 
+>  - [字节跳动混沌工程实践总结](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247485661&idx=1&sn=0f74be70239f9049b991f1bf9ac379cf) 
+
+
+
+
 
 
 ## 其他常识
