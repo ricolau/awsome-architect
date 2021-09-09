@@ -50,6 +50,7 @@
 ## MQ消息队列
 
 ## RDB数据库存储
+> - [MySQL · 特性分析 · MyRocks简介](http://mysql.taobao.org/monthly/2016/08/03/)
 
 ## NewSQL
 
