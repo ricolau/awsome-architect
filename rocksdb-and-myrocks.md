@@ -9,8 +9,8 @@
 
 
 ## RocksDB
->  - [redis为何单线程，为何使用跳表不使用B+树做索引](https://www.cnblogs.com/aspirant/p/11704530.html) 
->  - [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html) 
+>  - [RocksDB中文手册](https://rocksdb.org.cn/doc/getting-started.html) 
+>  - [RocksJava Basics](https://github.com/facebook/rocksdb/wiki/RocksJava-Basics) 
 
 
 
