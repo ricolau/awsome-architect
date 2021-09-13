@@ -48,6 +48,7 @@
 
 
 ## MQ消息队列
+> - [RocketMQ如何保证不丢失消息](https://blog.csdn.net/zhaoquanwei2018/article/details/106857907)
 
 ## RDB数据库存储
 > - [MySQL · 特性分析 · MyRocks简介](http://mysql.taobao.org/monthly/2016/08/03/)
