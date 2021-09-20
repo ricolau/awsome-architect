@@ -61,10 +61,7 @@
 
 ## NewSQL
 
-## 图数据库
->  - [字节跳动自研万亿级图数据库 & 图计算实践](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247485504&idx=1&sn=1768d4561b3d787bf6175d124e1a200d) 
-
-## TiDB
+> ### TiDB
 
 >  - [为什么我们要从MySQL迁移到TiDB？](https://www.easemob.com/news/4079) v2020/03/12
 >  - [【官方】TiDB overview概述](https://github.com/pingcap/docs-cn/blob/master/overview.md) 
@@ -74,8 +71,14 @@
 >  - [【官方】TiDB 数据库调度](https://github.com/pingcap/docs-cn/blob/master/tidb-scheduling.md) 
 >  - [新一代数据库TiDB在美团的实践](https://tech.meituan.com/2018/11/22/mysql-pingcap-practice.html) v2018/11/22
 
-## 其他
+> ### 其他
 - [我们为什么放弃了TiDB，选择自研NewSQL](http://dbaplus.cn/news-11-2950-1.html) v2020/01/16
+
+
+
+## 图数据库
+>  - [字节跳动自研万亿级图数据库 & 图计算实践](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247485504&idx=1&sn=1768d4561b3d787bf6175d124e1a200d) 
+
 
 ## Cache高速缓存
 
