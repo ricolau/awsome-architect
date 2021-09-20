@@ -31,6 +31,7 @@
 
 
 ## Go语言开发
+> - 必读go学习手册：❤️[中文版](https://www.kancloud.cn/kancloud/effective/72199)❤️， [中英双语版](https://github.com/bingohuang/effective-go-zh-en/blob/master/README.md)
 > - [万字长文深入浅出 Golang Runtime](https://zhuanlan.zhihu.com/p/95056679)
 > - [Go 语言 sync 包的应用详解](https://mp.weixin.qq.com/s/l315emdX2LayvQtMRMxigA)
 > - [Golang 中的 sync.Pool 对象](https://mp.weixin.qq.com/s/3AEc2NqG3o8PNgqqjWG2xQ)
@@ -43,7 +44,7 @@
 
 ## JAVA语言开发
 
-> - [强烈推荐最全的300页：阿里Java学习笔记](https://github.com/ricolau/java-learning-materials#%E7%94%B5%E5%AD%90%E4%B9%A6) 从语言、语法、spring、分布式、网络库、数据库、负载均衡、haddoop、云计算等很全面的资料。
+> - ❤️[强烈推荐最全的300页：阿里Java学习笔记](https://github.com/ricolau/java-learning-materials#%E7%94%B5%E5%AD%90%E4%B9%A6)❤️ 从语言、语法、spring、分布式、网络库、数据库、负载均衡、haddoop、云计算等很全面的资料。
 > - [想学Google Guava看这篇就够了](https://blog.csdn.net/pzjtian/article/details/106910046)
 >  - [Spring Boot框架入门教程（快速学习版）](http://c.biancheng.net/spring_boot/) 
 >  - [Springboot 启动原理详细解析](https://www.cnblogs.com/jstarseven/p/11087157.html) 
