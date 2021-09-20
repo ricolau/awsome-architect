@@ -45,6 +45,7 @@
 ## JAVA语言开发
 
 > - ❤️[强烈推荐最全的300页：阿里Java学习笔记](https://pan.baidu.com/s/1ujq_BUNObAOq5RBYQ7cBgw) 提取码：6621  ❤️ 从语言、语法、spring、分布式、网络库、数据库、负载均衡、haddoop、云计算等很全面的资料。
+> - [java命令执行jar包的多种方法(四种方法)](https://www.cnblogs.com/zhangchao0515/p/14251666.html)
 > - [Maven使用详解，非常详细](https://blog.csdn.net/hcmony/article/details/56013655)
 > - [maven：pom文件详解](https://blog.csdn.net/weixin_38569499/article/details/91456988)
 > - [想学Google Guava看这篇就够了](https://blog.csdn.net/pzjtian/article/details/106910046)
