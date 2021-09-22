@@ -54,7 +54,10 @@
 
 
 ## MQ消息队列
+> ### RocketMQ
 > - [RocketMQ如何保证不丢失消息](https://blog.csdn.net/zhaoquanwei2018/article/details/106857907)
+> - [RocketMQ底层原理和源码解析](https://blog.csdn.net/qq_27641935/article/details/86539980)
+
 
 ## RDB数据库存储
 > - [MySQL · 特性分析 · MyRocks简介](http://mysql.taobao.org/monthly/2016/08/03/)
@@ -62,7 +65,6 @@
 ## NewSQL
 
 > ### TiDB
-
 >  - [为什么我们要从MySQL迁移到TiDB？](https://www.easemob.com/news/4079) v2020/03/12
 >  - [【官方】TiDB overview概述](https://github.com/pingcap/docs-cn/blob/master/overview.md) 
 >  - [【官方】TiDB 整体架构](https://github.com/pingcap/docs-cn/blob/master/tidb-architecture.md) 
@@ -72,7 +74,7 @@
 >  - [新一代数据库TiDB在美团的实践](https://tech.meituan.com/2018/11/22/mysql-pingcap-practice.html) v2018/11/22
 
 > ### 其他
-- [我们为什么放弃了TiDB，选择自研NewSQL](http://dbaplus.cn/news-11-2950-1.html) v2020/01/16
+> - [我们为什么放弃了TiDB，选择自研NewSQL](http://dbaplus.cn/news-11-2950-1.html) v2020/01/16
 
 
 
