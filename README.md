@@ -57,6 +57,7 @@
 > ### RocketMQ
 > - [RocketMQ如何保证不丢失消息](https://blog.csdn.net/zhaoquanwei2018/article/details/106857907)
 > - [RocketMQ底层原理和源码解析](https://blog.csdn.net/qq_27641935/article/details/86539980)
+> - [延迟队列浅析](https://blog.csdn.net/qq_21033663/article/details/101222502)
 
 
 ## RDB数据库存储
