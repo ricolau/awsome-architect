@@ -52,6 +52,7 @@
 > - [Spring Boot框架入门教程（快速学习版）](http://c.biancheng.net/spring_boot/) 
 > - [Springboot 启动原理详细解析](https://www.cnblogs.com/jstarseven/p/11087157.html) 
 > - [Java JNI实现原理初探](https://blog.csdn.net/hackooo/article/details/48395765/)
+> - [这可能是目前最透彻的Netty原理架构解析](https://mp.weixin.qq.com/s/YS_RLOd0iVwDcwH6JMyB8g)
 
 
 ## MQ消息队列
