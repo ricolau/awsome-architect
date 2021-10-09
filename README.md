@@ -57,8 +57,9 @@
 
 ## MQ消息队列
 > ### RocketMQ
-> - [RocketMQ如何保证不丢失消息](https://blog.csdn.net/zhaoquanwei2018/article/details/106857907)
 > - [RocketMQ底层原理和源码解析](https://blog.csdn.net/qq_27641935/article/details/86539980)
+> - [RocketMQ如何保证不丢失消息](https://blog.csdn.net/zhaoquanwei2018/article/details/106857907)
+> - [RocketMQ底层原理之存储设计](https://www.jianshu.com/p/39e7bd556b00)
 > - [延迟队列浅析](https://blog.csdn.net/qq_21033663/article/details/101222502)
 
 
