@@ -101,6 +101,7 @@
 ## HA高可用架构
 >  - [“两地三中心”和“双活”简介--容灾技术方案](http://blog.itpub.net/26736162/viewspace-2216584/) 
 >  - [字节跳动混沌工程实践总结](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247485661&idx=1&sn=0f74be70239f9049b991f1bf9ac379cf) 
+>  - [美团外卖系统架构演进与稳定性的探索](https://www.infoq.cn/article/evolution-and-stability-of-meituan-waimai-architecture)
 
 
 
