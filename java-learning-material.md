@@ -5,6 +5,7 @@
 
 ## 一些概念学习和理解
 > - [Spring、SpringBoot和SpringCloud的区别和基础入门](https://baijiahao.baidu.com/s?id=1739317929327983505&wfr=spider&for=pc)
+> - [Java之jar包和war包的介绍和区别](https://blog.csdn.net/lovedingd/article/details/121665033)
 
 ## 关于注解/注释 Annotation
 > ### 关于注释
