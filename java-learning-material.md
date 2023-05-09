@@ -22,7 +22,12 @@
 > ### 关于注解
 >  - [Java 注解及其底层原理](https://www.cnblogs.com/xiaoniuhululu/p/16578683.html) 
 >  - [Spring源码分析（十二）autowire和@Autowired 依赖注入源码解析总结](https://blog.csdn.net/weixin_41947378/article/details/127598381) 
+>  - [spring中@Data注解详细解析](https://blog.csdn.net/weixin_47872288/article/details/121374322) 
+>  - [@Data和@Builder注解解析](https://blog.csdn.net/abc1641211976/article/details/122421714) 
+
+
 >  - [Spring @Autowired使用介绍](https://www.cnblogs.com/xumBlog/p/8687032.html) 
 >  - [Spring中@Resource和@Autowire注解的区别](https://blog.csdn.net/u012899618/article/details/128718839) 
+>  - [【SpringBoot】@RequestBody的使用](https://blog.csdn.net/CPOHUI/article/details/106876158) 
 
 
