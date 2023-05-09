@@ -2,6 +2,8 @@
 
 
 - [JAVA语言开发](#JAVA语言开发)
+## 概念理解
+> - [什么是Java Bean(如何理解Java Bean详细易懂)](https://tangjiusheng.com/it/730.html)
 
 ## 编译和运行时
 > - [关于Java的JIT(即时编译器)知识整理](https://blog.csdn.net/Genmer/article/details/119355224)
@@ -16,8 +18,11 @@
 
 
 
-## 关于注解/注释 Annotation
-> ### 关于注释
+## 关于注解 Annotation
+> ### 关于注解
 >  - [Java 注解及其底层原理](https://www.cnblogs.com/xiaoniuhululu/p/16578683.html) 
+>  - [Spring源码分析（十二）autowire和@Autowired 依赖注入源码解析总结](https://blog.csdn.net/weixin_41947378/article/details/127598381) 
+>  - [Spring @Autowired使用介绍](https://www.cnblogs.com/xumBlog/p/8687032.html) 
+>  - [Spring中@Resource和@Autowire注解的区别](https://blog.csdn.net/u012899618/article/details/128718839) 
 
 
