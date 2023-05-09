@@ -24,6 +24,9 @@
 >  - [Spring ： @Repository 注解和 @Controller @Service](https://blog.csdn.net/qq_21383435/article/details/103941243) 
 >  - [spring中@Data注解详细解析](https://blog.csdn.net/weixin_47872288/article/details/121374322) 
 >  - [@Data和@Builder注解解析](https://blog.csdn.net/abc1641211976/article/details/122421714) 
+>  - [Lombok中@Builder和@SuperBuilder注解的用法](http://www.syrr.cn/news/10035.html) 
+>  - [lombok中的@Builder.Default注解](https://www.jianshu.com/p/e60047ff7e53) 
+>  - [Lombok中@AllArgsConstructor注解和@NoArgsConstructor注解的作用](https://blog.csdn.net/RAGACM/article/details/116533797) 
 
 >  - [Spring源码分析（十二）autowire和@Autowired 依赖注入源码解析总结](https://blog.csdn.net/weixin_41947378/article/details/127598381) 
 >  - [Spring @Autowired使用介绍](https://www.cnblogs.com/xumBlog/p/8687032.html) 
