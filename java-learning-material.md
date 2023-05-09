@@ -27,6 +27,8 @@
 >  - [Lombok中@Builder和@SuperBuilder注解的用法](http://www.syrr.cn/news/10035.html) 
 >  - [lombok中的@Builder.Default注解](https://www.jianshu.com/p/e60047ff7e53) 
 >  - [Lombok中@AllArgsConstructor注解和@NoArgsConstructor注解的作用](https://blog.csdn.net/RAGACM/article/details/116533797) 
+>  - [Lombok中 注解@Slf4j](https://blog.51cto.com/u_1472521/3714593) 
+>  - [Java Slf4j日志配置](https://www.cnblogs.com/chenn/p/15191190.html) 
 
 >  - [Spring源码分析（十二）autowire和@Autowired 依赖注入源码解析总结](https://blog.csdn.net/weixin_41947378/article/details/127598381) 
 >  - [Spring @Autowired使用介绍](https://www.cnblogs.com/xumBlog/p/8687032.html) 
