@@ -21,6 +21,7 @@
 ## 关于注解 Annotation
 > ### 关于注解
 >  - [Java 注解及其底层原理](https://www.cnblogs.com/xiaoniuhululu/p/16578683.html) 
+>  - [Spring ： @Repository 注解和 @Controller @Service](https://blog.csdn.net/qq_21383435/article/details/103941243) 
 >  - [Spring源码分析（十二）autowire和@Autowired 依赖注入源码解析总结](https://blog.csdn.net/weixin_41947378/article/details/127598381) 
 >  - [spring中@Data注解详细解析](https://blog.csdn.net/weixin_47872288/article/details/121374322) 
 >  - [@Data和@Builder注解解析](https://blog.csdn.net/abc1641211976/article/details/122421714) 
