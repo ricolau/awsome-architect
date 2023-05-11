@@ -5,14 +5,24 @@
 ## 概念理解
 > - [什么是Java Bean(如何理解Java Bean详细易懂)](https://tangjiusheng.com/it/730.html)
 
-## 编译和运行时
+## 虚拟机、编译、runtime
 > - [关于Java的JIT(即时编译器)知识整理](https://blog.csdn.net/Genmer/article/details/119355224)
+> - [深入理解Java虚拟机到底是什么](https://blog.csdn.net/zhangjg_blog/article/details/20380971)
+> - [深入理解java虚拟机（全章节完整）](https://blog.csdn.net/TJtulong/article/details/89598598)
+> - [Java虚拟机（JVM）你只要看这一篇就够了！](https://blog.csdn.net/qq_41701956/article/details/81664921)
+
+
+
+## 性能优化
+
 
 ## 工程化
 > - [Java之jar包和war包的介绍和区别](https://blog.csdn.net/lovedingd/article/details/121665033)
 
-## Spring boot
+## Sping / Spring boot
 > - [Spring、SpringBoot和SpringCloud的区别和基础入门](https://baijiahao.baidu.com/s?id=1739317929327983505&wfr=spider&for=pc)
+> - [Spring中IOC的理解（通俗易懂版）](https://blog.csdn.net/qq_48508278/article/details/124680364)
+> - [Spring AOP全面详解(超级详细)](https://blog.csdn.net/Cr1556648487/article/details/126777903)
 > - [SpringBoot原理解析（超详细）](https://blog.csdn.net/qq_66912832/article/details/124942757)
 > - [SpringBoot原理(启动注解原理及流程详解)](https://mikechen.cc/18729.html)
 
@@ -34,5 +44,11 @@
 >  - [Spring @Autowired使用介绍](https://www.cnblogs.com/xumBlog/p/8687032.html) 
 >  - [Spring中@Resource和@Autowire注解的区别](https://blog.csdn.net/u012899618/article/details/128718839) 
 >  - [【SpringBoot】@RequestBody的使用](https://blog.csdn.net/CPOHUI/article/details/106876158) 
+
+## Mybatis
+> - [SpringBoot整合MyBatis---一篇就够了](https://zhuanlan.zhihu.com/p/143798465)
+
+## 面试题角度看一些关键技术点
+> - [10万字208道Java经典面试题总结(附答案)](https://blog.csdn.net/guorui_java/article/details/119299329)
 
 
