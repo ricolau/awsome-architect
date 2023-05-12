@@ -27,6 +27,7 @@
 
 ## 并发编程相关
 > - [♥Java并发知识体系详解♥](https://pdai.tech/md/java/thread/java-thread-x-overview.html)
+> - [同步synchronized与ReentrantLock简单应用及分析](https://blog.csdn.net/tyrroo/article/details/91436099)
 
 
 
