@@ -17,12 +17,31 @@
 ## 工程化
 > - [Java之jar包和war包的介绍和区别](https://blog.csdn.net/lovedingd/article/details/121665033)
 
+
+## 语言特性
+> ### threadlocal
+> - [史上最全ThreadLocal 详解（一）](https://blog.csdn.net/u010445301/article/details/111322569)
+> - [史上最全ThreadLocal 详解（二）](https://blog.csdn.net/u010445301/article/details/124935802)
+> - [强软弱虚四种引用，清晰介绍](https://blog.csdn.net/u011291072/article/details/106315905)
+> - [Java 基础 - 泛型机制详解](https://pdai.tech/md/java/basic/java-basic-x-generic.html)
+
+## 并发编程相关
+> - [♥Java并发知识体系详解♥](https://pdai.tech/md/java/thread/java-thread-x-overview.html)
+
+
+
 ## Sping / Spring boot
 > - [Spring、SpringBoot和SpringCloud的区别和基础入门](https://baijiahao.baidu.com/s?id=1739317929327983505&wfr=spider&for=pc)
 > - [Spring中IOC的理解（通俗易懂版）](https://blog.csdn.net/qq_48508278/article/details/124680364)
 > - [Spring AOP全面详解(超级详细)](https://blog.csdn.net/Cr1556648487/article/details/126777903)
 > - [SpringBoot原理解析（超详细）](https://blog.csdn.net/qq_66912832/article/details/124942757)
 > - [SpringBoot原理(启动注解原理及流程详解)](https://mikechen.cc/18729.html)
+
+## Spring Cloud和分布式等
+> - [超详细的Spring Cloud全面总结](https://zhuanlan.zhihu.com/p/367343070)
+> [Dubbo基础及原理机制](https://blog.csdn.net/wender/article/details/125233339)
+> 
+
 
 
 
