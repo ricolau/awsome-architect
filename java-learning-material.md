@@ -41,7 +41,7 @@
 
 
 
-## 关于注解 Annotation
+## 关于注解 Annotation 和 Spring boot相关注解
 > ### 关于注解
 >  - [Java 注解及其底层原理](https://www.cnblogs.com/xiaoniuhululu/p/16578683.html) 
 >  - [Spring ： @Repository 注解和 @Controller @Service](https://blog.csdn.net/qq_21383435/article/details/103941243) 
@@ -52,7 +52,6 @@
 >  - [Lombok中@AllArgsConstructor注解和@NoArgsConstructor注解的作用](https://blog.csdn.net/RAGACM/article/details/116533797) 
 >  - [Lombok中 注解@Slf4j](https://blog.51cto.com/u_1472521/3714593) 
 >  - [Java Slf4j日志配置](https://www.cnblogs.com/chenn/p/15191190.html) 
-
 >  - [Spring源码分析（十二）autowire和@Autowired 依赖注入源码解析总结](https://blog.csdn.net/weixin_41947378/article/details/127598381) 
 >  - [Spring @Autowired使用介绍](https://www.cnblogs.com/xumBlog/p/8687032.html) 
 >  - [Spring中@Resource和@Autowire注解的区别](https://blog.csdn.net/u012899618/article/details/128718839) 
@@ -60,6 +59,7 @@
 
 ## Mybatis
 > - [SpringBoot整合MyBatis---一篇就够了](https://zhuanlan.zhihu.com/p/143798465)
+> - [MyBatis中的@Mapper注解及配套注解使用详解](https://www.cnblogs.com/arrows/p/10531808.html)
 
 
 ## Spring Cloud和微服务分布式等
