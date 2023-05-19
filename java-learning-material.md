@@ -29,10 +29,9 @@
 > - [♥Java并发知识体系详解♥](https://pdai.tech/md/java/thread/java-thread-x-overview.html)
 > - [同步synchronized与ReentrantLock简单应用及分析](https://blog.csdn.net/tyrroo/article/details/91436099)
 
-
-
 ## Spring / Spring boot
 > - [Spring、SpringBoot和SpringCloud的区别和基础入门](https://baijiahao.baidu.com/s?id=1739317929327983505&wfr=spider&for=pc)
+> - [spring 什么是容器？什么是bean？](https://blog.csdn.net/qq_41512902/article/details/126136905)
 > - [Spring中IOC的理解（通俗易懂版）](https://blog.csdn.net/qq_48508278/article/details/124680364)
 > - [Spring AOP全面详解(超级详细)](https://blog.csdn.net/Cr1556648487/article/details/126777903)
 > - [SpringBoot原理解析（超详细）](https://blog.csdn.net/qq_66912832/article/details/124942757)
@@ -40,9 +39,8 @@
 
 
 
-
 ## 关于注解 Annotation 和 Spring boot相关注解
-> ### 关于注解
+> ### 常见CURD相关注解
 >  - [Java 注解及其底层原理](https://www.cnblogs.com/xiaoniuhululu/p/16578683.html) 
 >  - [Spring ： @Repository 注解和 @Controller @Service](https://blog.csdn.net/qq_21383435/article/details/103941243) 
 >  - [spring中@Data注解详细解析](https://blog.csdn.net/weixin_47872288/article/details/121374322) 
@@ -56,11 +54,16 @@
 >  - [Spring @Autowired使用介绍](https://www.cnblogs.com/xumBlog/p/8687032.html) 
 >  - [Spring中@Resource和@Autowire注解的区别](https://blog.csdn.net/u012899618/article/details/128718839) 
 >  - [【SpringBoot】@RequestBody的使用](https://blog.csdn.net/CPOHUI/article/details/106876158) 
+>  - [Spring/SpringBoot系列之@Configuration详解【十九】](https://blog.csdn.net/fei1234456/article/details/106905054/)
+
+> ### 进阶注解
+> - [Spring @Conditional注解 详细讲解及示例](https://blog.csdn.net/xcy1193068639/article/details/81491071)
+
 
 ## Mybatis
 > - [SpringBoot整合MyBatis---一篇就够了](https://zhuanlan.zhihu.com/p/143798465)
 > - [MyBatis中的@Mapper注解及配套注解使用详解](https://www.cnblogs.com/arrows/p/10531808.html)
-
+> - [mybatis-spring-boot-starter 原理分析](https://blog.csdn.net/u011781521/article/details/100097426)
 
 ## Spring Cloud和微服务分布式等
 > - [超详细的Spring Cloud全面总结](https://zhuanlan.zhihu.com/p/367343070)
