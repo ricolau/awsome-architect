@@ -36,7 +36,7 @@
 > - [Spring AOP全面详解(超级详细)](https://blog.csdn.net/Cr1556648487/article/details/126777903)
 > - [SpringBoot原理解析（超详细）](https://blog.csdn.net/qq_66912832/article/details/124942757)
 > - [SpringBoot原理(启动注解原理及流程详解)](https://mikechen.cc/18729.html)
-
+> - [全局配置文件application.properties详解](https://blog.csdn.net/qq_41946216/article/details/124769491)
 
 
 ## 关于注解 Annotation 和 Spring boot相关注解
