@@ -58,6 +58,8 @@
 
 > ### 进阶注解
 > - [Spring @Conditional注解 详细讲解及示例](https://blog.csdn.net/xcy1193068639/article/details/81491071)
+> - [条件注解 ConditionalOnBean、ConditionalOnMissingBean、ConditionalOnClass、ConditionalOnMissingClass](https://blog.csdn.net/weixin_40910372/article/details/108204833)
+
 
 
 ## Mybatis
