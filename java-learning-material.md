@@ -13,7 +13,6 @@
 
 
 
-
 ## 工程化
 > - [Java之jar包和war包的介绍和区别](https://blog.csdn.net/lovedingd/article/details/121665033)
 
@@ -75,6 +74,8 @@
 ## 性能优化
 > - [Java线上性能问题-排查方法汇总](https://blog.csdn.net/huangliangbao2009/article/details/129738200)
 > - [java 性能问题排查与性能优化](https://blog.csdn.net/fzy629442466/article/details/103537256)
+> - [java 性能问题排查与性能优化](https://blog.csdn.net/fzy629442466/article/details/103537256)
+
 
 
 ## 面试题角度看一些关键技术点
