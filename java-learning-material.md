@@ -71,6 +71,10 @@
 > - [超详细的Spring Cloud全面总结](https://zhuanlan.zhihu.com/p/367343070)
 > - [Dubbo基础及原理机制](https://blog.csdn.net/wender/article/details/125233339)
 
+## 网络通信
+> - [BIO、NIO 入门（Netty 先导）](https://blog.csdn.net/w903328615/article/details/113914902)
+> - [【架构师】必懂模型！ | Netty的高性能设计](https://www.bilibili.com/read/cv15485121)
+
 
 ## 性能优化
 > - [Java线上性能问题-排查方法汇总](https://blog.csdn.net/huangliangbao2009/article/details/129738200)
