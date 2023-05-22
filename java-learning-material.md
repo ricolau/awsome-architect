@@ -10,6 +10,7 @@
 > - [深入理解Java虚拟机到底是什么](https://blog.csdn.net/zhangjg_blog/article/details/20380971)
 > - [深入理解java虚拟机（全章节完整）](https://blog.csdn.net/TJtulong/article/details/89598598)
 > - [Java虚拟机（JVM）你只要看这一篇就够了！](https://blog.csdn.net/qq_41701956/article/details/81664921)
+> - [Java为什么比Go消耗更多内存？](https://zhuanlan.zhihu.com/p/409158265)
 
 
 
