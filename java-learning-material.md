@@ -13,15 +13,18 @@
 > - [Java为什么比Go消耗更多内存？](https://zhuanlan.zhihu.com/p/409158265)
 
 
-
 ## 工程化
 > - [Java之jar包和war包的介绍和区别](https://blog.csdn.net/lovedingd/article/details/121665033)
 
+## 语法
+> - [Java枚举（enum）](https://blog.csdn.net/qq_55157413/article/details/124278125)
 
 ## 语言特性
 > ### threadlocal
 > - [史上最全ThreadLocal 详解（一）](https://blog.csdn.net/u010445301/article/details/111322569)
 > - [史上最全ThreadLocal 详解（二）](https://blog.csdn.net/u010445301/article/details/124935802)
+
+
 > - [强软弱虚四种引用，清晰介绍](https://blog.csdn.net/u011291072/article/details/106315905)
 > - [Java 基础 - 泛型机制详解](https://pdai.tech/md/java/basic/java-basic-x-generic.html)
 
