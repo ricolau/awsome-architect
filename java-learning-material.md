@@ -12,7 +12,6 @@
 > - [Java虚拟机（JVM）你只要看这一篇就够了！](https://blog.csdn.net/qq_41701956/article/details/81664921)
 > - [Java为什么比Go消耗更多内存？](https://zhuanlan.zhihu.com/p/409158265)
 
-
 ## 工程化
 > - [Java之jar包和war包的介绍和区别](https://blog.csdn.net/lovedingd/article/details/121665033)
 
@@ -23,7 +22,6 @@
 > ### threadlocal
 > - [史上最全ThreadLocal 详解（一）](https://blog.csdn.net/u010445301/article/details/111322569)
 > - [史上最全ThreadLocal 详解（二）](https://blog.csdn.net/u010445301/article/details/124935802)
-
 
 > - [强软弱虚四种引用，清晰介绍](https://blog.csdn.net/u011291072/article/details/106315905)
 > - [Java 基础 - 泛型机制详解](https://pdai.tech/md/java/basic/java-basic-x-generic.html)
@@ -59,7 +57,8 @@
 >  - [【SpringBoot】@RequestBody的使用](https://blog.csdn.net/CPOHUI/article/details/106876158) 
 >  - [Spring/SpringBoot系列之@Configuration详解【十九】](https://blog.csdn.net/fei1234456/article/details/106905054/)
 
-> ### 进阶注解
+> ### 更多注解
+> - [Spring之@Async异步注解](https://blog.csdn.net/sun134911/article/details/119677348)
 > - [Spring @Conditional注解 详细讲解及示例](https://blog.csdn.net/xcy1193068639/article/details/81491071)
 > - [条件注解 ConditionalOnBean、ConditionalOnMissingBean、ConditionalOnClass、ConditionalOnMissingClass](https://blog.csdn.net/weixin_40910372/article/details/108204833)
 
