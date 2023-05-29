@@ -74,6 +74,8 @@
 ## Spring Cloud和微服务分布式等
 > - [超详细的Spring Cloud全面总结](https://zhuanlan.zhihu.com/p/367343070)
 > - [Dubbo基础及原理机制](https://blog.csdn.net/wender/article/details/125233339)
+> - [Dubbo集成Sentinel实现限流](https://blog.csdn.net/yangbaggio/article/details/106062845)
+
 
 ## 网络通信
 > - [BIO、NIO 入门（Netty 先导）](https://blog.csdn.net/w903328615/article/details/113914902)
