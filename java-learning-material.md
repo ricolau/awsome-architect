@@ -11,6 +11,8 @@
 > - [深入理解java虚拟机（全章节完整）](https://blog.csdn.net/TJtulong/article/details/89598598)
 > - [Java虚拟机（JVM）你只要看这一篇就够了！](https://blog.csdn.net/qq_41701956/article/details/81664921)
 > - [Java为什么比Go消耗更多内存？](https://zhuanlan.zhihu.com/p/409158265)
+> - [【JAVA核心】Java GC机制详解](https://blog.csdn.net/qq_37006625/article/details/128089386)
+
 
 ## 工程化
 > - [Java之jar包和war包的介绍和区别](https://blog.csdn.net/lovedingd/article/details/121665033)
