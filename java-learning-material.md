@@ -28,6 +28,10 @@
 > - [强软弱虚四种引用，清晰介绍](https://blog.csdn.net/u011291072/article/details/106315905)
 > - [Java 基础 - 泛型机制详解](https://pdai.tech/md/java/basic/java-basic-x-generic.html)
 
+> ### Java8
+> - [【Java 8 新特性】Java Supplier示例](https://blog.csdn.net/qq_31635851/article/details/116497765)
+> - [java Lambda表达式详解](https://blog.csdn.net/m0_57180439/article/details/123181306)
+
 ## 并发编程相关
 > - [♥Java并发知识体系详解♥](https://pdai.tech/md/java/thread/java-thread-x-overview.html)
 > - [同步synchronized与ReentrantLock简单应用及分析](https://blog.csdn.net/tyrroo/article/details/91436099)
