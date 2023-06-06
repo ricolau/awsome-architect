@@ -89,7 +89,6 @@
 ## 性能优化
 > - [Java线上性能问题-排查方法汇总](https://blog.csdn.net/huangliangbao2009/article/details/129738200)
 > - [java 性能问题排查与性能优化](https://blog.csdn.net/fzy629442466/article/details/103537256)
-> - [java 性能问题排查与性能优化](https://blog.csdn.net/fzy629442466/article/details/103537256)
 > ### 优化案例
 > - [服务器性能指标（一）——负载（Load）分析及问题排查](https://blog.csdn.net/fanliunian/article/details/112259986)
 
