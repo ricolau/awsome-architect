@@ -24,13 +24,20 @@
 > ### threadlocal
 > - [史上最全ThreadLocal 详解（一）](https://blog.csdn.net/u010445301/article/details/111322569)
 > - [史上最全ThreadLocal 详解（二）](https://blog.csdn.net/u010445301/article/details/124935802)
-
+> ### 强软弱虚
 > - [强软弱虚四种引用，清晰介绍](https://blog.csdn.net/u011291072/article/details/106315905)
+> ### 泛型
 > - [Java 基础 - 泛型机制详解](https://pdai.tech/md/java/basic/java-basic-x-generic.html)
 
 > ### Java8
 > - [【Java 8 新特性】Java Supplier示例](https://blog.csdn.net/qq_31635851/article/details/116497765)
 > - [java Lambda表达式详解](https://blog.csdn.net/m0_57180439/article/details/123181306)
+>  ### list的stream和map
+> - [list.stream().map()用法](https://blog.csdn.net/ke1ying/article/details/115162926)
+> - [在java8之后使用stream将list转成map,以及对list中的map分组求和；Stream的常用操作；按条件分割集合；map和flatmap](https://blog.csdn.net/weixin_43944305/article/details/103978236)
+
+
+
 
 ## 并发编程相关
 > - [♥Java并发知识体系详解♥](https://pdai.tech/md/java/thread/java-thread-x-overview.html)
