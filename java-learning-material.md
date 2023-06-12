@@ -36,6 +36,10 @@
 > - [list.stream().map()用法](https://blog.csdn.net/ke1ying/article/details/115162926)
 > - [在java8之后使用stream将list转成map,以及对list中的map分组求和；Stream的常用操作；按条件分割集合；map和flatmap](https://blog.csdn.net/weixin_43944305/article/details/103978236)
 
+> ### 测试与单测unit test
+> - [Springboot Test 详解](https://www.jianshu.com/p/c59263b90986)
+> - [Java学习笔记-@RunWith(SpringRunner.class)的作用](https://blog.csdn.net/mumuwang1234/article/details/115129688)
+
 
 
 
