@@ -103,6 +103,8 @@
 > ### 优化案例
 > - [服务器性能指标（一）——负载（Load）分析及问题排查](https://blog.csdn.net/fanliunian/article/details/112259986)
 
+## 三方包配置相关
+> - [关闭apache httpclient4.5 DEBUG日志](https://blog.csdn.net/u012500848/article/details/95245376)
 
 
 
