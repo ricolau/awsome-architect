@@ -39,7 +39,7 @@
 > ### 测试与单测unit test
 > - [Springboot Test 详解](https://www.jianshu.com/p/c59263b90986)
 > - [Java学习笔记-@RunWith(SpringRunner.class)的作用](https://blog.csdn.net/mumuwang1234/article/details/115129688)
-
+> - [深入探索：单元测试@Test之测试执行顺序通过@FixMethodOrder控制](https://blog.csdn.net/chutongg028083/article/details/100981939)
 
 
 
