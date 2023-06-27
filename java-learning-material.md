@@ -28,6 +28,9 @@
 > - [强软弱虚四种引用，清晰介绍](https://blog.csdn.net/u011291072/article/details/106315905)
 > ### 泛型
 > - [Java 基础 - 泛型机制详解](https://pdai.tech/md/java/basic/java-basic-x-generic.html)
+> ### ServiceLoader
+> - [带你理解 ServiceLoader 的原理与设计思想](https://developer.aliyun.com/article/1060596)
+> - [Java SPI实现：ServiceLoader 的使用](https://blog.csdn.net/qq_44503987/article/details/124085718)
 
 > ### Java8
 > - [【Java 8 新特性】Java Supplier示例](https://blog.csdn.net/qq_31635851/article/details/116497765)
