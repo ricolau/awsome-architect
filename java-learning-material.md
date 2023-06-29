@@ -19,6 +19,8 @@
 
 ## 语法
 > - [Java枚举（enum）](https://blog.csdn.net/qq_55157413/article/details/124278125)
+> - [【Java入门】数组和集合— String[] 、List＜String＞ 及 ArrayList](https://blog.csdn.net/weixin_51407397/article/details/126799714)
+
 
 ## 语言特性
 > ### threadlocal
